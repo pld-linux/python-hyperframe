@@ -9,7 +9,7 @@ Summary(pl.UTF-8):	Warstwa ramek HTTP/2 dla Pythona 2
 Name:		python-hyperframe
 # keep 5.x here for python2 support
 Version:	5.2.0
-Release:	5
+Release:	6
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/hyperframe/
